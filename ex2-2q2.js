@@ -32,4 +32,4 @@ for (let i = 0; i < n; i++) {
     }
     else sqr = sqr + middle + '\n'
 }
-console.log(sqr);     
+console.log(sqr);       
